@@ -9,16 +9,13 @@ time were making requests to our api. As I Could'nt
 find an app that did this I wrote this app
 
 # Getting Started
-1)Just drop the apiRequestCount folder into you
-django app.
+1)Just drop the apiRequestCount folder into you django app.
 
-2) add the app to your installed apps
-in settings.py.
+2) add the app to your installed apps in settings.py.
 
 3)Run migrations.
 
-4)Import the decorator requestCount
-from the apps decorators file, see example below
+4)Import the decorator requestCount from the apps decorators file, see example below
 
 ```python
 
