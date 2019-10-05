@@ -48,6 +48,7 @@ down or only accessible by logged in users.
 
 # Prerequisites
 1)djangorestframework
+
 2)Django >= 2.1.7
 
 # Running the tests
