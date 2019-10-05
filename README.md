@@ -47,8 +47,8 @@ down or only accessible by logged in users.
 
 
 # Prerequisites
-djangorestframework
-Django >= 2.1.7
+1)djangorestframework
+2)Django >= 2.1.7
 
 # Running the tests
 add the apiRequest app urls to the site wide urls and
