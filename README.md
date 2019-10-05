@@ -11,7 +11,7 @@ find an app that did this I wrote this app
 # Getting Started
 1)Just drop the apiRequestCount folder into you django app.
 
-2) add the app to your installed apps in settings.py.
+2)add the app to your installed apps in settings.py.
 
 3)Run migrations.
 
@@ -56,7 +56,7 @@ then run
 
 ```python
 
-    python manage.py test apiRequestCount
+  python manage.py test apiRequestCount
 
 
 ```
